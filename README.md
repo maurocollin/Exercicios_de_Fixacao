@@ -42,9 +42,9 @@ Cada script foi projetado para ser executado de forma independente no **Google C
 * **Datetime:** Uso de bibliotecas nativas para cálculos temporais.
 
 ---
-**Desenvolvedores:** 
-Mauro Henrique Collin Ferreira  - 202403689601
-Victor Amaral Ferreira - 202502363711
-Eduardo da Silva Brito - 202502477597
-Kevin Guedes Moura - 202504239081
-**Analista de Sistemas** | Rio de Janeiro, RJ
+**Desenvolvedores:** .
+Mauro Henrique Collin Ferreira  - 202403689601.
+Victor Amaral Ferreira - 202502363711.
+Eduardo da Silva Brito - 202502477597.
+Kevin Guedes Moura - 202504239081.
+**Desenvolvimento rápido em Python** | 2026, Rio de Janeiro, RJ
