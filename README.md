@@ -7,7 +7,7 @@
 * Victor Amaral Ferreira - 202502363711
 * Eduardo da Silva Brito - 202502477597
 * Kevin Guedes Moura - 202504239081
-* **Desenvolvimento rápido em Python** | 2026, Rio de Janeiro, RJ
+* **Desenvolvimento rápido em Python** | 2026, Niterói, RJ
 ---
 
 Este repositório reúne uma série de desafios práticos desenvolvidos durante a disciplina de **Desenvolvimento Rápido de Aplicações (RAD)**. O objetivo é demonstrar o domínio sobre persistência de dados e tratamento de fluxos de informação.
