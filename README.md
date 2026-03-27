@@ -22,7 +22,7 @@ Exercícios voltados para a persistência de dados e interação com o sistema o
 
 ### 2. Manipulação de Strings & Bioinformática 🧬
 Exercícios focados no tratamento de cadeias de caracteres e limpeza de dados.
-* **Processamento de DNA:** Inversão de cadeias genéticas lidas de arquivos.
+* **Processamento de arquivos:** Inversão de cadeias de caracteres lidas de arquivos.
 * **Análise de Texto:** Contagem de palavras e normalização de strings (substituição de caracteres).
 * **Tratamento de Repetições:** Algoritmo para extração de palavras únicas em frases, simulando limpeza de bases de dados.
 
@@ -42,5 +42,9 @@ Cada script foi projetado para ser executado de forma independente no **Google C
 * **Datetime:** Uso de bibliotecas nativas para cálculos temporais.
 
 ---
-**Desenvolvedor:** Mauro Henrique Collin Ferreira  
+**Desenvolvedores:** 
+Mauro Henrique Collin Ferreira  - 202403689601
+Victor Amaral Ferreira - 202502363711
+Eduardo da Silva Brito - 202502477597
+Kevin Guedes Moura - 202504239081
 **Analista de Sistemas** | Rio de Janeiro, RJ
