@@ -1,6 +1,13 @@
 # 📂 Exercícios de Fixação: Python & Manipulação de Dados
 > Consolidação de conceitos em lógica de programação, tratamento de arquivos e strings.
-
+---
+## **Desenvolvedores:** .
+* **Mauro Henrique Collin Ferreira  - 202403689601.
+* **Victor Amaral Ferreira - 202502363711.
+* **Eduardo da Silva Brito - 202502477597.
+* **Kevin Guedes Moura - 202504239081.
+**Desenvolvimento rápido em Python** | 2026, Rio de Janeiro, RJ
+---
 Este repositório reúne uma série de desafios práticos desenvolvidos durante a disciplina de **Desenvolvimento Rápido de Aplicações (RAD)**. O objetivo é demonstrar o domínio sobre persistência de dados e tratamento de fluxos de informação.
 
 ![Status](https://img.shields.io/badge/Status-Em%20Progresso-blue)
@@ -42,9 +49,4 @@ Cada script foi projetado para ser executado de forma independente no **Google C
 * **Datetime:** Uso de bibliotecas nativas para cálculos temporais.
 
 ---
-**Desenvolvedores:** .
-Mauro Henrique Collin Ferreira  - 202403689601.
-Victor Amaral Ferreira - 202502363711.
-Eduardo da Silva Brito - 202502477597.
-Kevin Guedes Moura - 202504239081.
-**Desenvolvimento rápido em Python** | 2026, Rio de Janeiro, RJ
+
