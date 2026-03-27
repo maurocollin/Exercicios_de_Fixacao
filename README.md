@@ -1,13 +1,15 @@
 # 📂 Exercícios de Fixação: Python & Manipulação de Dados
 > Consolidação de conceitos em lógica de programação, tratamento de arquivos e strings.
+
 ---
-## **Desenvolvedores:** .
-* **Mauro Henrique Collin Ferreira  - 202403689601.
-* **Victor Amaral Ferreira - 202502363711.
-* **Eduardo da Silva Brito - 202502477597.
-* **Kevin Guedes Moura - 202504239081.
-**Desenvolvimento rápido em Python** | 2026, Rio de Janeiro, RJ
+## **Desenvolvedores:**
+* Mauro Henrique Collin Ferreira  - 202403689601
+* Victor Amaral Ferreira - 202502363711
+* Eduardo da Silva Brito - 202502477597
+* Kevin Guedes Moura - 202504239081
+* **Desenvolvimento rápido em Python** | 2026, Rio de Janeiro, RJ
 ---
+
 Este repositório reúne uma série de desafios práticos desenvolvidos durante a disciplina de **Desenvolvimento Rápido de Aplicações (RAD)**. O objetivo é demonstrar o domínio sobre persistência de dados e tratamento de fluxos de informação.
 
 ![Status](https://img.shields.io/badge/Status-Em%20Progresso-blue)
@@ -27,9 +29,9 @@ Exercícios voltados para a persistência de dados e interação com o sistema o
 * **Gestão Acadêmica:** Processamento de notas e tomada de decisão (Aprovado/Reprovado).
 * **Mini Calculadora Persistente:** Execução de operações matemáticas com log de resultados.
 
-### 2. Manipulação de Strings & Bioinformática 🧬
+### 2. Manipulação de Strings & Arquivos de Texto 🧬
 Exercícios focados no tratamento de cadeias de caracteres e limpeza de dados.
-* **Processamento de arquivos:** Inversão de cadeias de caracteres lidas de arquivos.
+* **Processamento de Arquivos:** Inversão de cadeias de caracteres lidas de arquivos.
 * **Análise de Texto:** Contagem de palavras e normalização de strings (substituição de caracteres).
 * **Tratamento de Repetições:** Algoritmo para extração de palavras únicas em frases, simulando limpeza de bases de dados.
 
